@@ -9,7 +9,7 @@
             "email": "francis01@simplexi.com.ph"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Simplexi\\Greetr\\": "src/"
